@@ -9,4 +9,8 @@
     <Compile Include="Program.fs" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Fable.Elmish" Version="1.0.1" />
+  </ItemGroup>
+
 </Project>
